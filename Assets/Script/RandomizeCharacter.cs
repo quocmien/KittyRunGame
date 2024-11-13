@@ -107,7 +107,7 @@ public class RandomizeCharacter : MonoBehaviour
                 int materialIndex = specificMaterialIndices[i];
                 if (materialIndex < materials.Length && i < selectedSet.textures.Length)
                 {
-                    materials[materialIndex].SetTexture("_BaseMap", selectedSet.textures[i]);
+                    materials[materialIndex].SetTexture("_BASE_COLOR_MAP", selectedSet.textures[i]);
                 }
             }
             bodyRenderer.materials = materials;
@@ -137,8 +137,19 @@ public class RandomizeCharacter : MonoBehaviour
             int materialIndex = specificMaterialIndices[i];
             if (materialIndex < bodyRenderer.materials.Length)
             {
-                Texture mainTexture = bodyRenderer.materials[materialIndex].mainTexture;
-                config.bodyTextures[i] = mainTexture != null ? mainTexture.name : "";
+                Material material = bodyRenderer.materials[materialIndex];
+
+                // Sử dụng thuộc tính "_BASE_COLOR_MAP" cho texture
+                if (material.HasProperty("_BASE_COLOR_MAP"))
+                {
+                    Texture mainTexture = material.GetTexture("_BASE_COLOR_MAP");
+                    config.bodyTextures[i] = mainTexture != null ? mainTexture.name : "";
+                }
+                else
+                {
+                    Debug.LogWarning($"Material '{material.name}' does not have the '_BASE_COLOR_MAP' property.");
+                    config.bodyTextures[i] = "";
+                }
             }
         }
 
@@ -147,6 +158,7 @@ public class RandomizeCharacter : MonoBehaviour
         File.WriteAllText(filePath, json);
         Debug.Log("Character configuration saved to: " + filePath);
     }
+
 
     private void LoadCharacterConfig(int characterIndex)
     {
@@ -185,7 +197,7 @@ public class RandomizeCharacter : MonoBehaviour
                 string textureName = config.bodyTextures[i];
                 if (!string.IsNullOrEmpty(textureName) && loadedTextures.TryGetValue(textureName, out Texture texture))
                 {
-                    materials[materialIndex].SetTexture("_BaseMap", texture);
+                    materials[materialIndex].SetTexture("_BASE_COLOR_MAP", texture);
                     Debug.Log($"Applied texture {textureName} to material index {materialIndex}");
                 }
                 else
