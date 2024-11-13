@@ -145,7 +145,7 @@ public class D3TitleCharacter : MonoBehaviour
     public void UpdateText()
 	{
 
-		GameVersionText.text = GameVersionInfo + Application.version;
+		// GameVersionText.text = GameVersionInfo + Application.version;
 
 
         coin = D3GameData.LoadCoin();
