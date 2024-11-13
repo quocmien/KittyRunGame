@@ -128,7 +128,6 @@
     <Compile Include="Assets\UI\UIObject3D\Scripts\UIObject3DTimerComponent.cs" />
     <Compile Include="Assets\UI\UIObject3D\Scripts\RotateUIObject3D.cs" />
     <Compile Include="Assets\3D Runner Engine\Scripts\Gameplay\D3CalOnGUI.cs" />
-    <Compile Include="Assets\Script\LoadingBarController.cs" />
     <Compile Include="Assets\3D Runner Engine\Scripts\Gameplay\D3GameController.cs" />
     <Compile Include="Assets\3D Runner Engine\Scripts\Gameplay\D3GameAttribute.cs" />
     <Compile Include="Assets\UI\UIObject3D\Scripts\UIObject3DLayerManager.cs" />

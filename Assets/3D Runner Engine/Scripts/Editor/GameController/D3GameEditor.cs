@@ -1061,6 +1061,8 @@ public class D3GameEditor : Editor
                             GUILayout.Space(10f);
                             GameGui.ImageButtonBuy = EditorGUILayout.ObjectField("Image Button Buy: ", GameGui.ImageButtonBuy, typeof(Sprite), true) as Sprite;
                             GUILayout.Space(10f);
+                            GameGui.ImageButtonInUse = EditorGUILayout.ObjectField("Image Button InUse: ", GameGui.ImageButtonBuy, typeof(Sprite), true) as Sprite;
+                            GUILayout.Space(10f);
                             GameGui.ImageButtonNoCoin = EditorGUILayout.ObjectField("Image Button No Coin: ", GameGui.ImageButtonNoCoin, typeof(Sprite), true) as Sprite;
                             GUILayout.Space(10f);
                             GameGui.BuyText = EditorGUILayout.TextField("Buy Text: ", GameGui.BuyText);

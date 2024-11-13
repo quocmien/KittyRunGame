@@ -68,6 +68,8 @@ public class D3TemplateListEditor : Editor
 
             itemTarget.ImageButtonSelect = EditorGUILayout.ObjectField("Sprite Button Select: ", itemTarget.ImageButtonSelect, typeof(Sprite), true) as Sprite;
 
+            itemTarget.ImageButtonInUse = EditorGUILayout.ObjectField("Sprite Button InUse: ", itemTarget.ImageButtonInUse, typeof(Sprite), true) as Sprite;
+
             GUILayout.EndVertical();
 
             GUILayout.BeginVertical("GroupBox", GUILayout.ExpandWidth(true));

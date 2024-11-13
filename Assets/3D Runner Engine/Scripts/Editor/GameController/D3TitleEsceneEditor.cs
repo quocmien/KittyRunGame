@@ -517,6 +517,8 @@ public class D3TitleEsceneEditor : Editor
                         GUILayout.Space(10f);
                         itemTarget.ImageButtonNoCoin = EditorGUILayout.ObjectField("Image Button No Coin: ", itemTarget.ImageButtonNoCoin, typeof(Sprite), true) as Sprite;
 
+    
+
                         GUILayout.Space(10f);
                         itemTarget.BuyText = EditorGUILayout.TextField("Buy Text: ", itemTarget.BuyText);
 
@@ -817,7 +819,7 @@ public class D3TitleEsceneEditor : Editor
             GUILayout.Label("Revenue Validation", EditorStyles.boldLabel);
             EditorGUILayout.TextArea("Receipt validation helps you prevent users from accessing content they have not purchased. \r\n To enable it check the Use Receipt Validation checkbox.", GUI.skin.GetStyle("HelpBox"));
 
-            EditorGUILayout.TextArea("To setup validation key:\r\na. Go to Unity Menu>>Services>>In-App Purchasing>>Configure> IAP Receipt Validation Obfuscator\r\nb. Paste your GooglePlay public key (from the application’s Google Play Developer Console’s\r\nServices & APIs page).\r\nc. Click Obfuscate Google Play Licence Key.", GUI.skin.GetStyle("HelpBox"));
+            EditorGUILayout.TextArea("To setup validation key:\r\na. Go to Unity Menu>>Services>>In-App Purchasing>>Configure> IAP Receipt Validation Obfuscator\r\nb. Paste your GooglePlay public key (from the applicationï¿½s Google Play Developer Consoleï¿½s\r\nServices & APIs page).\r\nc. Click Obfuscate Google Play Licence Key.", GUI.skin.GetStyle("HelpBox"));
 
             GUILayout.Space(10f);
 

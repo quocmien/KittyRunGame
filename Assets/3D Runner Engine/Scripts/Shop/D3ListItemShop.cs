@@ -17,6 +17,7 @@ public class D3ListItemShop : MonoBehaviour
     public Button Button;
     public Sprite ImageButtonBuy;
     public Sprite ImageButtonSelect;
+    public Sprite ImageButtonInUse;
     public Text ButtonText;
     public Image ImageIconCoin;
     public Sprite ImageIconVirtualCoin;
@@ -258,7 +259,8 @@ public class D3ListItemShop : MonoBehaviour
                             Button.image.sprite = ImageButtonSelect;
                         }
                         Button.interactable = false;
-                        ButtonText.text = InUseText;
+                        //ButtonText.text = InUseText;
+                        Button.image.sprite = ImageButtonInUse;
                     }
 
                     if (D3ShopCharacter.instace.selectPlayer != Item.ID)
@@ -285,7 +287,8 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonSelect;
                     }
                     Button.interactable = false;
-                    ButtonText.text = InUseText;
+                    //ButtonText.text = InUseText;
+                    Button.image.sprite = ImageButtonInUse;
                 }
             }
         }
@@ -335,7 +338,8 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonSelect;
                     }
                     Button.interactable = false;
-                    ButtonText.text = InUseText;
+                    //ButtonText.text = InUseText;
+                    Button.image.sprite = ImageButtonInUse;
                 }
 
                 if (D3ShopCharacter.instace.selectHoverBoardr != Item.ID)

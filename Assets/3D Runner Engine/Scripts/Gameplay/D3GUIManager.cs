@@ -151,6 +151,7 @@ public class D3GUIManager : MonoBehaviour
     public int MultiplyPriceWhenPurchasing = 2;
     public Sprite ImageButtonBuy;
     public Sprite ImageButtonNoCoin;
+    public Sprite ImageButtonInUse;
     public Text NamePlayerText;
     public string BuyText = "UPGRADE";
     public string NOCoinText = "NO COIN";

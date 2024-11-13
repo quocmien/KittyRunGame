@@ -32,7 +32,7 @@ public class D3GuiManagerEditor : Editor
 
         if (GuiComponent)
         {
-            GUILayout.Label("UI Mánager", EditorStyles.boldLabel);
+            GUILayout.Label("UI Mï¿½nager", EditorStyles.boldLabel);
 
             scrollPos = EditorGUILayout.BeginScrollView(scrollPos, GUILayout.ExpandWidth(true), GUILayout.ExpandHeight(true));
             GUILayout.BeginVertical("GroupBox");
@@ -215,6 +215,9 @@ public class D3GuiManagerEditor : Editor
 
             GUILayout.Space(10f);
             GuiComponent.ImageButtonNoCoin = EditorGUILayout.ObjectField("Image Button No Coin: ", GuiComponent.ImageButtonNoCoin, typeof(Sprite), true) as Sprite;
+
+            GUILayout.Space(10f);
+            GuiComponent.ImageButtonInUse = EditorGUILayout.ObjectField("Image Button In Use: ", GuiComponent.ImageButtonInUse, typeof(Sprite), true) as Sprite;
 
             GUILayout.Space(10f);
             GuiComponent.BuyText = EditorGUILayout.TextField("Buy Text: ", GuiComponent.BuyText);
