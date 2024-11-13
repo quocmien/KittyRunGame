@@ -1,0 +1,13 @@
+
+NewBestScore.png
+size: 1099,1121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anh Sang
+  rotate: false
+  xy: 2, 2
+  size: 1095, 1117
+  orig: 1131, 1205
+  offset: 35, 51
+  index: -1

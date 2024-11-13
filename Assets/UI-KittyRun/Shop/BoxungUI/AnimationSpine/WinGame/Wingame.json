@@ -1,0 +1,2419 @@
+{
+    "skeleton": {
+        "hash": "LQ0UqspT5jzXf2anzgrjK/aMSMw",
+        "spine": "3.8.33-beta",
+        "x": -548.84,
+        "y": -1265.81,
+        "width": 1082,
+        "height": 1956,
+        "images": "./images/",
+        "audio": "D:/5-FILE LAM THEM/Yeu Quai/GameMeo3D/UI/animation/WinGame"
+    },
+    "bones": [
+        {
+            "name": "root",
+            "x": 4.86,
+            "y": 9.73
+        },
+        {
+            "name": "boneBGSao",
+            "parent": "root",
+            "x": -2.73,
+            "y": 12.53
+        },
+        {
+            "name": "BoneSaoTrai",
+            "parent": "root",
+            "x": -189.69,
+            "y": -18.4
+        },
+        {
+            "name": "boneSaoGiua",
+            "parent": "root",
+            "x": -0.04,
+            "y": 1.77
+        },
+        {
+            "name": "boneSaoPhai",
+            "parent": "root",
+            "x": 188.26,
+            "y": -17.06
+        },
+        {
+            "name": "Effect",
+            "parent": "BoneSaoTrai",
+            "x": -2.69,
+            "y": 4.03
+        },
+        {
+            "name": "Effect2",
+            "parent": "boneSaoGiua",
+            "y": 2.69
+        },
+        {
+            "name": "Effect3",
+            "parent": "boneSaoPhai",
+            "x": 2.69,
+            "y": -1.35
+        }
+    ],
+    "slots": [
+        {
+            "name": "Layer 110 copy",
+            "bone": "boneBGSao",
+            "attachment": "Layer 110 copy"
+        },
+        {
+            "name": "Layer 111 copy 6",
+            "bone": "Effect2",
+            "attachment": "Layer 111 copy 6"
+        },
+        {
+            "name": "Layer 111 copy 2",
+            "bone": "Effect3",
+            "attachment": "Layer 111 copy 2"
+        },
+        {
+            "name": "Layer 111 copy 1",
+            "bone": "Effect",
+            "attachment": "Layer 111 copy 1"
+        },
+        {
+            "name": "SaoGiua copy 2",
+            "bone": "boneSaoGiua",
+            "attachment": "SaoGiua copy 2"
+        },
+        {
+            "name": "SaoPhai copy 2",
+            "bone": "boneSaoPhai",
+            "attachment": "SaoPhai copy 2"
+        },
+        {
+            "name": "SaoTrai copy 2",
+            "bone": "BoneSaoTrai",
+            "attachment": "SaoTrai copy 2"
+        },
+        {
+            "name": "SaoGiua copy 3",
+            "bone": "boneSaoGiua",
+            "attachment": "SaoGiua copy 3"
+        },
+        {
+            "name": "SaoPhai copy 3",
+            "bone": "boneSaoPhai",
+            "attachment": "SaoPhai copy 3"
+        },
+        {
+            "name": "SaoTrai copy 3",
+            "bone": "BoneSaoTrai",
+            "attachment": "SaoTrai copy 3"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "SaoTrai copy 2": {
+                    "SaoTrai copy 2": {
+                        "x": -1.02,
+                        "y": -0.63,
+                        "width": 142,
+                        "height": 141
+                    }
+                },
+                "SaoTrai copy 3": {
+                    "SaoTrai copy 3": {
+                        "x": -0.02,
+                        "y": -0.63,
+                        "width": 196,
+                        "height": 195
+                    }
+                },
+                "Layer 111 copy 1": {
+                    "Layer 111 copy 1": {
+                        "x": 11.17,
+                        "y": 1.83,
+                        "width": 271,
+                        "height": 274
+                    }
+                },
+                "Layer 111 copy 2": {
+                    "Layer 111 copy 2": {
+                        "x": -5.15,
+                        "y": 4.37,
+                        "width": 271,
+                        "height": 265
+                    }
+                },
+                "SaoPhai copy 2": {
+                    "SaoPhai copy 2": {
+                        "x": 2.54,
+                        "y": -1.98,
+                        "width": 143,
+                        "height": 141
+                    }
+                },
+                "SaoPhai copy 3": {
+                    "SaoPhai copy 3": {
+                        "x": 2.04,
+                        "y": -1.98,
+                        "width": 196,
+                        "height": 195
+                    }
+                },
+                "Layer 111 copy 6": {
+                    "Layer 111 copy 6": {
+                        "x": 6.84,
+                        "y": 13.5,
+                        "width": 441,
+                        "height": 431
+                    }
+                },
+                "Layer 110 copy": {
+                    "Layer 110 copy": {
+                        "x": 3.03,
+                        "y": -11.07,
+                        "width": 534,
+                        "height": 196
+                    }
+                },
+                "SaoGiua copy 2": {
+                    "SaoGiua copy 2": {
+                        "x": 1.34,
+                        "y": 7.19,
+                        "width": 174,
+                        "height": 165
+                    }
+                },
+                "SaoGiua copy 3": {
+                    "SaoGiua copy 3": {
+                        "x": 1.34,
+                        "y": 7.19,
+                        "width": 230,
+                        "height": 221
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "1Star": {
+            "slots": {
+                "SaoGiua copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "SaoPhai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "Layer 111 copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 5.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.5667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.5,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "Layer 111 copy 1": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3.3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.9667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "Layer 111 copy 6": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 3.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.8667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.8,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoGiua copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "SaoTrai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoPhai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.7333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "SaoTrai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "Effect": {
+                    "rotate": [
+                        {
+                            "time": 2.6667
+                        },
+                        {
+                            "time": 2.8333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 3.0667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 3.3,
+                            "angle": 180
+                        },
+                        {
+                            "time": 3.5,
+                            "angle": -120
+                        },
+                        {
+                            "time": 3.7333,
+                            "angle": -60
+                        },
+                        {
+                            "time": 3.9667
+                        }
+                    ]
+                },
+                "Effect2": {
+                    "rotate": [
+                        {
+                            "time": 3.9
+                        },
+                        {
+                            "time": 4.2333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 4.5333,
+                            "angle": 120
+                        },
+                        {
+                            "time": 4.8667,
+                            "angle": 180
+                        },
+                        {
+                            "time": 5.1667,
+                            "angle": -120
+                        },
+                        {
+                            "time": 5.4667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 5.8
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 3.9,
+                            "x": 0.8,
+                            "y": 0.8
+                        },
+                        {
+                            "time": 4.8667,
+                            "x": 0.7,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 5.8,
+                            "x": 0.8,
+                            "y": 0.8
+                        }
+                    ]
+                },
+                "Effect3": {
+                    "rotate": [
+                        {
+                            "time": 5.6667
+                        },
+                        {
+                            "time": 5.9667,
+                            "angle": 60
+                        },
+                        {
+                            "time": 6.2667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 6.6333,
+                            "angle": 180
+                        },
+                        {
+                            "time": 6.9,
+                            "angle": -120
+                        },
+                        {
+                            "time": 7.1667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 7.5
+                        }
+                    ]
+                },
+                "boneSaoPhai": {
+                    "translate": [
+                        {
+                            "x": 1449.17
+                        },
+                        {
+                            "time": 0.4
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.4
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.7333
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "boneSaoGiua": {
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.3333
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6667
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "BoneSaoTrai": {
+                    "translate": [
+                        {
+                            "x": -1455.66
+                        },
+                        {
+                            "time": 0.2667
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.2667
+                        },
+                        {
+                            "time": 0.3333,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                }
+            }
+        },
+        "2Star": {
+            "slots": {
+                "SaoGiua copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoPhai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "Layer 111 copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 5.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.5667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.5,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "Layer 111 copy 1": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3.3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.9667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "Layer 111 copy 6": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 3.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.8667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.8,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoGiua copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        }
+                    ]
+                },
+                "SaoTrai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoPhai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.7333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "name": null
+                        }
+                    ]
+                },
+                "SaoTrai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "Effect": {
+                    "rotate": [
+                        {
+                            "time": 2.6667
+                        },
+                        {
+                            "time": 2.8333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 3.0667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 3.3,
+                            "angle": 180
+                        },
+                        {
+                            "time": 3.5,
+                            "angle": -120
+                        },
+                        {
+                            "time": 3.7333,
+                            "angle": -60
+                        },
+                        {
+                            "time": 3.9667
+                        }
+                    ]
+                },
+                "Effect2": {
+                    "rotate": [
+                        {
+                            "time": 3.9
+                        },
+                        {
+                            "time": 4.2333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 4.5333,
+                            "angle": 120
+                        },
+                        {
+                            "time": 4.8667,
+                            "angle": 180
+                        },
+                        {
+                            "time": 5.1667,
+                            "angle": -120
+                        },
+                        {
+                            "time": 5.4667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 5.8
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 3.9,
+                            "x": 0.8,
+                            "y": 0.8
+                        },
+                        {
+                            "time": 4.8667,
+                            "x": 0.7,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 5.8,
+                            "x": 0.8,
+                            "y": 0.8
+                        }
+                    ]
+                },
+                "Effect3": {
+                    "rotate": [
+                        {
+                            "time": 5.6667
+                        },
+                        {
+                            "time": 5.9667,
+                            "angle": 60
+                        },
+                        {
+                            "time": 6.2667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 6.6333,
+                            "angle": 180
+                        },
+                        {
+                            "time": 6.9,
+                            "angle": -120
+                        },
+                        {
+                            "time": 7.1667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 7.5
+                        }
+                    ]
+                },
+                "boneSaoPhai": {
+                    "translate": [
+                        {
+                            "x": 1449.17
+                        },
+                        {
+                            "time": 0.4
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.4
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.7333
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "boneSaoGiua": {
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.3333
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6667
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "BoneSaoTrai": {
+                    "translate": [
+                        {
+                            "x": -1455.66
+                        },
+                        {
+                            "time": 0.2667
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.2667
+                        },
+                        {
+                            "time": 0.3333,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                }
+            }
+        },
+        "3Star": {
+            "slots": {
+                "SaoGiua copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoPhai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        }
+                    ]
+                },
+                "Layer 111 copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 5.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.5667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.5,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "Layer 111 copy 1": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 2.6667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3.3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.9667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "Layer 111 copy 6": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.1,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2333,
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 3.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.8667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.8,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoGiua copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffffff"
+                        }
+                    ]
+                },
+                "SaoTrai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.6,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoPhai copy 3": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.4,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 0.7333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 2.1667,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 3,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 3.8333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 4.7,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 5.5333,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 6.3667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 8.0667,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 8.9,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 9.7333,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 10.5667,
+                            "color": "ffffff00"
+                        }
+                    ]
+                },
+                "SaoTrai copy 2": {
+                    "color": [
+                        {
+                            "color": "ffffff00",
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 0.2,
+                            "color": "ffffff00"
+                        },
+                        {
+                            "time": 0.2667,
+                            "color": "ffffffff"
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "Effect": {
+                    "rotate": [
+                        {
+                            "time": 2.6667
+                        },
+                        {
+                            "time": 2.8333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 3.0667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 3.3,
+                            "angle": 180
+                        },
+                        {
+                            "time": 3.5,
+                            "angle": -120
+                        },
+                        {
+                            "time": 3.7333,
+                            "angle": -60
+                        },
+                        {
+                            "time": 3.9667
+                        }
+                    ]
+                },
+                "Effect2": {
+                    "rotate": [
+                        {
+                            "time": 3.9
+                        },
+                        {
+                            "time": 4.2333,
+                            "angle": 60
+                        },
+                        {
+                            "time": 4.5333,
+                            "angle": 120
+                        },
+                        {
+                            "time": 4.8667,
+                            "angle": 180
+                        },
+                        {
+                            "time": 5.1667,
+                            "angle": -120
+                        },
+                        {
+                            "time": 5.4667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 5.8
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 3.9,
+                            "x": 0.8,
+                            "y": 0.8
+                        },
+                        {
+                            "time": 4.8667,
+                            "x": 0.7,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 5.8,
+                            "x": 0.8,
+                            "y": 0.8
+                        }
+                    ]
+                },
+                "Effect3": {
+                    "rotate": [
+                        {
+                            "time": 5.6667
+                        },
+                        {
+                            "time": 5.9667,
+                            "angle": 60
+                        },
+                        {
+                            "time": 6.2667,
+                            "angle": 120
+                        },
+                        {
+                            "time": 6.6333,
+                            "angle": 180
+                        },
+                        {
+                            "time": 6.9,
+                            "angle": -120
+                        },
+                        {
+                            "time": 7.1667,
+                            "angle": -60
+                        },
+                        {
+                            "time": 7.5
+                        }
+                    ]
+                },
+                "boneSaoPhai": {
+                    "translate": [
+                        {
+                            "x": 1449.17
+                        },
+                        {
+                            "time": 0.4
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.4
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.7333
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "boneSaoGiua": {
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.3333
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.6,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6667
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                },
+                "BoneSaoTrai": {
+                    "translate": [
+                        {
+                            "x": -1455.66
+                        },
+                        {
+                            "time": 0.2667
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "x": 10,
+                            "y": 10
+                        },
+                        {
+                            "time": 0.2667
+                        },
+                        {
+                            "time": 0.3333,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.4,
+                            "x": 1.08,
+                            "y": 1.08
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 0.5333,
+                            "x": 1.02,
+                            "y": 1.02
+                        },
+                        {
+                            "time": 0.6
+                        },
+                        {
+                            "time": 1.3333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 2.1667
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 3.8333
+                        },
+                        {
+                            "time": 4.7,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 5.5333
+                        },
+                        {
+                            "time": 6.3667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 7.2
+                        },
+                        {
+                            "time": 8.0667,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 8.9
+                        },
+                        {
+                            "time": 9.7333,
+                            "x": 1.1,
+                            "y": 1.1
+                        },
+                        {
+                            "time": 10.5667
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

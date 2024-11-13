@@ -1,0 +1,76 @@
+
+Wingame.png
+size: 1494,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 110 copy
+  rotate: false
+  xy: 901, 236
+  size: 528, 192
+  orig: 534, 196
+  offset: 3, 2
+  index: -1
+Layer 111 copy 1
+  rotate: false
+  xy: 402, 176
+  size: 250, 252
+  orig: 271, 274
+  offset: 11, 12
+  index: -1
+Layer 111 copy 2
+  rotate: true
+  xy: 654, 181
+  size: 247, 245
+  orig: 271, 265
+  offset: 13, 12
+  index: -1
+Layer 111 copy 6
+  rotate: true
+  xy: 2, 27
+  size: 401, 398
+  orig: 441, 431
+  offset: 21, 19
+  index: -1
+SaoGiua copy 2
+  rotate: true
+  xy: 402, 2
+  size: 172, 163
+  orig: 174, 165
+  offset: 1, 1
+  index: -1
+SaoGiua copy 3
+  rotate: true
+  xy: 901, 12
+  size: 222, 213
+  orig: 230, 221
+  offset: 4, 4
+  index: -1
+SaoPhai copy 2
+  rotate: true
+  xy: 567, 33
+  size: 141, 139
+  orig: 143, 141
+  offset: 1, 1
+  index: -1
+SaoPhai copy 3
+  rotate: true
+  xy: 1116, 46
+  size: 188, 187
+  orig: 196, 195
+  offset: 4, 4
+  index: -1
+SaoTrai copy 2
+  rotate: false
+  xy: 708, 40
+  size: 139, 139
+  orig: 142, 141
+  offset: 2, 1
+  index: -1
+SaoTrai copy 3
+  rotate: true
+  xy: 1305, 46
+  size: 188, 187
+  orig: 196, 195
+  offset: 4, 4
+  index: -1

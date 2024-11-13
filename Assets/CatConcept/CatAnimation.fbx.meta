@@ -1,0 +1,2279 @@
+fileFormatVersion: 2
+guid: 78d7964efa1667441b569a793110d171
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bone002
+  - first:
+      1: 100002
+    second: Bone003
+  - first:
+      1: 100004
+    second: Bone007
+  - first:
+      1: 100006
+    second: Bone009
+  - first:
+      1: 100008
+    second: Bone011
+  - first:
+      1: 100010
+    second: Bone021
+  - first:
+      1: 100012
+    second: Bone023
+  - first:
+      1: 100014
+    second: Bone024
+  - first:
+      1: 100016
+    second: Bone025
+  - first:
+      1: 100018
+    second: Bone028
+  - first:
+      1: 100020
+    second: Bone031
+  - first:
+      1: 100022
+    second: Bone032
+  - first:
+      1: 100024
+    second: Bone033
+  - first:
+      1: 100026
+    second: Bone034
+  - first:
+      1: 100028
+    second: Bone035
+  - first:
+      1: 100030
+    second: Bone036
+  - first:
+      1: 100032
+    second: Bone037
+  - first:
+      1: 100034
+    second: BoneBanchan3
+  - first:
+      1: 100036
+    second: BoneBanChan4
+  - first:
+      1: 100038
+    second: BoneBanChanPhai1
+  - first:
+      1: 100040
+    second: BoneBanChanPhai2
+  - first:
+      1: 100042
+    second: BoneBanChanTrai1
+  - first:
+      1: 100044
+    second: BoneBanChanTrai2
+  - first:
+      1: 100046
+    second: BoneBanTayPhai
+  - first:
+      1: 100048
+    second: BoneBanTayPhai 1
+  - first:
+      1: 100050
+    second: BoneBanTayPhai 10
+  - first:
+      1: 100052
+    second: BoneBanTayPhai 11
+  - first:
+      1: 100054
+    second: BoneBanTayPhai 12
+  - first:
+      1: 100056
+    second: BoneBanTayPhai 13
+  - first:
+      1: 100058
+    second: BoneBanTayPhai 14
+  - first:
+      1: 100060
+    second: BoneBanTayPhai 15
+  - first:
+      1: 100062
+    second: BoneBanTayPhai 16
+  - first:
+      1: 100064
+    second: BoneBanTayPhai 17
+  - first:
+      1: 100066
+    second: BoneBanTayPhai 18
+  - first:
+      1: 100068
+    second: BoneBanTayPhai 19
+  - first:
+      1: 100070
+    second: BoneBanTayPhai 2
+  - first:
+      1: 100072
+    second: BoneBanTayPhai 20
+  - first:
+      1: 100074
+    second: BoneBanTayPhai 21
+  - first:
+      1: 100076
+    second: BoneBanTayPhai 22
+  - first:
+      1: 100078
+    second: BoneBanTayPhai 23
+  - first:
+      1: 100080
+    second: BoneBanTayPhai 24
+  - first:
+      1: 100082
+    second: BoneBanTayPhai 25
+  - first:
+      1: 100084
+    second: BoneBanTayPhai 3
+  - first:
+      1: 100086
+    second: BoneBanTayPhai 4
+  - first:
+      1: 100088
+    second: BoneBanTayPhai 5
+  - first:
+      1: 100090
+    second: BoneBanTayPhai 6
+  - first:
+      1: 100092
+    second: BoneBanTayPhai 7
+  - first:
+      1: 100094
+    second: BoneBanTayPhai 8
+  - first:
+      1: 100096
+    second: BoneBanTayPhai 9
+  - first:
+      1: 100098
+    second: BoneBanTayTrai1
+  - first:
+      1: 100100
+    second: BoneBanTayTrai1 1
+  - first:
+      1: 100102
+    second: BoneBanTayTrai1 10
+  - first:
+      1: 100104
+    second: BoneBanTayTrai1 11
+  - first:
+      1: 100106
+    second: BoneBanTayTrai1 12
+  - first:
+      1: 100108
+    second: BoneBanTayTrai1 13
+  - first:
+      1: 100110
+    second: BoneBanTayTrai1 14
+  - first:
+      1: 100112
+    second: BoneBanTayTrai1 15
+  - first:
+      1: 100114
+    second: BoneBanTayTrai1 16
+  - first:
+      1: 100116
+    second: BoneBanTayTrai1 17
+  - first:
+      1: 100118
+    second: BoneBanTayTrai1 18
+  - first:
+      1: 100120
+    second: BoneBanTayTrai1 19
+  - first:
+      1: 100122
+    second: BoneBanTayTrai1 2
+  - first:
+      1: 100124
+    second: BoneBanTayTrai1 20
+  - first:
+      1: 100126
+    second: BoneBanTayTrai1 21
+  - first:
+      1: 100128
+    second: BoneBanTayTrai1 22
+  - first:
+      1: 100130
+    second: BoneBanTayTrai1 23
+  - first:
+      1: 100132
+    second: BoneBanTayTrai1 24
+  - first:
+      1: 100134
+    second: BoneBanTayTrai1 25
+  - first:
+      1: 100136
+    second: BoneBanTayTrai1 26
+  - first:
+      1: 100138
+    second: BoneBanTayTrai1 3
+  - first:
+      1: 100140
+    second: BoneBanTayTrai1 4
+  - first:
+      1: 100142
+    second: BoneBanTayTrai1 5
+  - first:
+      1: 100144
+    second: BoneBanTayTrai1 6
+  - first:
+      1: 100146
+    second: BoneBanTayTrai1 7
+  - first:
+      1: 100148
+    second: BoneBanTayTrai1 8
+  - first:
+      1: 100150
+    second: BoneBanTayTrai1 9
+  - first:
+      1: 100152
+    second: BoneBung
+  - first:
+      1: 100154
+    second: BoneChanPhai1i
+  - first:
+      1: 100156
+    second: BoneChanPhai2
+  - first:
+      1: 100158
+    second: BoneChanTrai1
+  - first:
+      1: 100160
+    second: BoneChanTrai2
+  - first:
+      1: 100162
+    second: BoneCo1
+  - first:
+      1: 100164
+    second: BoneCo2
+  - first:
+      1: 100166
+    second: BoneCoTay
+  - first:
+      1: 100168
+    second: BoneCoTayTrai
+  - first:
+      1: 100170
+    second: BoneDau
+  - first:
+      1: 100172
+    second: BoneEo
+  - first:
+      1: 100174
+    second: BoneHong
+  - first:
+      1: 100176
+    second: BoneRoot
+  - first:
+      1: 100178
+    second: BoneTayPhai1
+  - first:
+      1: 100180
+    second: BoneTayPhai2
+  - first:
+      1: 100182
+    second: BoneTayTrai1
+  - first:
+      1: 100184
+    second: BoneTayTrai2
+  - first:
+      1: 100186
+    second: BoneThan
+  - first:
+      1: 100188
+    second: BoneThan 1
+  - first:
+      1: 100190
+    second: BoneThanNguc
+  - first:
+      1: 100192
+    second: BoneVaiPhai
+  - first:
+      1: 100194
+    second: BoneVaiTrai
+  - first:
+      1: 100196
+    second: //RootNode
+  - first:
+      1: 100198
+    second: default
+  - first:
+      1: 100200
+    second: helena_rosenthal01
+  - first:
+      4: 400000
+    second: Bone002
+  - first:
+      4: 400002
+    second: Bone003
+  - first:
+      4: 400004
+    second: Bone007
+  - first:
+      4: 400006
+    second: Bone009
+  - first:
+      4: 400008
+    second: Bone011
+  - first:
+      4: 400010
+    second: Bone021
+  - first:
+      4: 400012
+    second: Bone023
+  - first:
+      4: 400014
+    second: Bone024
+  - first:
+      4: 400016
+    second: Bone025
+  - first:
+      4: 400018
+    second: Bone028
+  - first:
+      4: 400020
+    second: Bone031
+  - first:
+      4: 400022
+    second: Bone032
+  - first:
+      4: 400024
+    second: Bone033
+  - first:
+      4: 400026
+    second: Bone034
+  - first:
+      4: 400028
+    second: Bone035
+  - first:
+      4: 400030
+    second: Bone036
+  - first:
+      4: 400032
+    second: Bone037
+  - first:
+      4: 400034
+    second: BoneBanchan3
+  - first:
+      4: 400036
+    second: BoneBanChan4
+  - first:
+      4: 400038
+    second: BoneBanChanPhai1
+  - first:
+      4: 400040
+    second: BoneBanChanPhai2
+  - first:
+      4: 400042
+    second: BoneBanChanTrai1
+  - first:
+      4: 400044
+    second: BoneBanChanTrai2
+  - first:
+      4: 400046
+    second: BoneBanTayPhai
+  - first:
+      4: 400048
+    second: BoneBanTayPhai 1
+  - first:
+      4: 400050
+    second: BoneBanTayPhai 10
+  - first:
+      4: 400052
+    second: BoneBanTayPhai 11
+  - first:
+      4: 400054
+    second: BoneBanTayPhai 12
+  - first:
+      4: 400056
+    second: BoneBanTayPhai 13
+  - first:
+      4: 400058
+    second: BoneBanTayPhai 14
+  - first:
+      4: 400060
+    second: BoneBanTayPhai 15
+  - first:
+      4: 400062
+    second: BoneBanTayPhai 16
+  - first:
+      4: 400064
+    second: BoneBanTayPhai 17
+  - first:
+      4: 400066
+    second: BoneBanTayPhai 18
+  - first:
+      4: 400068
+    second: BoneBanTayPhai 19
+  - first:
+      4: 400070
+    second: BoneBanTayPhai 2
+  - first:
+      4: 400072
+    second: BoneBanTayPhai 20
+  - first:
+      4: 400074
+    second: BoneBanTayPhai 21
+  - first:
+      4: 400076
+    second: BoneBanTayPhai 22
+  - first:
+      4: 400078
+    second: BoneBanTayPhai 23
+  - first:
+      4: 400080
+    second: BoneBanTayPhai 24
+  - first:
+      4: 400082
+    second: BoneBanTayPhai 25
+  - first:
+      4: 400084
+    second: BoneBanTayPhai 3
+  - first:
+      4: 400086
+    second: BoneBanTayPhai 4
+  - first:
+      4: 400088
+    second: BoneBanTayPhai 5
+  - first:
+      4: 400090
+    second: BoneBanTayPhai 6
+  - first:
+      4: 400092
+    second: BoneBanTayPhai 7
+  - first:
+      4: 400094
+    second: BoneBanTayPhai 8
+  - first:
+      4: 400096
+    second: BoneBanTayPhai 9
+  - first:
+      4: 400098
+    second: BoneBanTayTrai1
+  - first:
+      4: 400100
+    second: BoneBanTayTrai1 1
+  - first:
+      4: 400102
+    second: BoneBanTayTrai1 10
+  - first:
+      4: 400104
+    second: BoneBanTayTrai1 11
+  - first:
+      4: 400106
+    second: BoneBanTayTrai1 12
+  - first:
+      4: 400108
+    second: BoneBanTayTrai1 13
+  - first:
+      4: 400110
+    second: BoneBanTayTrai1 14
+  - first:
+      4: 400112
+    second: BoneBanTayTrai1 15
+  - first:
+      4: 400114
+    second: BoneBanTayTrai1 16
+  - first:
+      4: 400116
+    second: BoneBanTayTrai1 17
+  - first:
+      4: 400118
+    second: BoneBanTayTrai1 18
+  - first:
+      4: 400120
+    second: BoneBanTayTrai1 19
+  - first:
+      4: 400122
+    second: BoneBanTayTrai1 2
+  - first:
+      4: 400124
+    second: BoneBanTayTrai1 20
+  - first:
+      4: 400126
+    second: BoneBanTayTrai1 21
+  - first:
+      4: 400128
+    second: BoneBanTayTrai1 22
+  - first:
+      4: 400130
+    second: BoneBanTayTrai1 23
+  - first:
+      4: 400132
+    second: BoneBanTayTrai1 24
+  - first:
+      4: 400134
+    second: BoneBanTayTrai1 25
+  - first:
+      4: 400136
+    second: BoneBanTayTrai1 26
+  - first:
+      4: 400138
+    second: BoneBanTayTrai1 3
+  - first:
+      4: 400140
+    second: BoneBanTayTrai1 4
+  - first:
+      4: 400142
+    second: BoneBanTayTrai1 5
+  - first:
+      4: 400144
+    second: BoneBanTayTrai1 6
+  - first:
+      4: 400146
+    second: BoneBanTayTrai1 7
+  - first:
+      4: 400148
+    second: BoneBanTayTrai1 8
+  - first:
+      4: 400150
+    second: BoneBanTayTrai1 9
+  - first:
+      4: 400152
+    second: BoneBung
+  - first:
+      4: 400154
+    second: BoneChanPhai1i
+  - first:
+      4: 400156
+    second: BoneChanPhai2
+  - first:
+      4: 400158
+    second: BoneChanTrai1
+  - first:
+      4: 400160
+    second: BoneChanTrai2
+  - first:
+      4: 400162
+    second: BoneCo1
+  - first:
+      4: 400164
+    second: BoneCo2
+  - first:
+      4: 400166
+    second: BoneCoTay
+  - first:
+      4: 400168
+    second: BoneCoTayTrai
+  - first:
+      4: 400170
+    second: BoneDau
+  - first:
+      4: 400172
+    second: BoneEo
+  - first:
+      4: 400174
+    second: BoneHong
+  - first:
+      4: 400176
+    second: BoneRoot
+  - first:
+      4: 400178
+    second: BoneTayPhai1
+  - first:
+      4: 400180
+    second: BoneTayPhai2
+  - first:
+      4: 400182
+    second: BoneTayTrai1
+  - first:
+      4: 400184
+    second: BoneTayTrai2
+  - first:
+      4: 400186
+    second: BoneThan
+  - first:
+      4: 400188
+    second: BoneThan 1
+  - first:
+      4: 400190
+    second: BoneThanNguc
+  - first:
+      4: 400192
+    second: BoneVaiPhai
+  - first:
+      4: 400194
+    second: BoneVaiTrai
+  - first:
+      4: 400196
+    second: //RootNode
+  - first:
+      4: 400198
+    second: default
+  - first:
+      4: 400200
+    second: helena_rosenthal01
+  - first:
+      43: 4300000
+    second: default
+  - first:
+      74: 7400000
+    second: "\xD0iBo"
+  - first:
+      74: 7400002
+    second: Chay
+  - first:
+      74: 7400004
+    second: NhayXoay
+  - first:
+      74: 7400006
+    second: Nhay phia truoc
+  - first:
+      74: 7400008
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: default
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\xD0iBo"
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneRoot
+        weight: 1
+      - path: BoneRoot/Bone032
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: BoneRoot/BoneEo
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau/Bone021
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22/BoneBanTayPhai 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20/BoneBanTayPhai 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21/BoneBanTayPhai 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14/BoneBanTayPhai
+          16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10/BoneBanTayPhai 15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23/BoneBanTayTrai1 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12/BoneBanTayTrai1 17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22/BoneBanTayTrai1 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21/BoneBanTayTrai1 26
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11/BoneBanTayTrai1 19
+        weight: 1
+      - path: BoneRoot/BoneHong
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2/BoneBanChan4
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2/BoneBanchan3
+        weight: 1
+      - path: default
+        weight: 1
+      - path: helena_rosenthal01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Chay
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneRoot
+        weight: 1
+      - path: BoneRoot/Bone032
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: BoneRoot/BoneEo
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau/Bone021
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22/BoneBanTayPhai 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20/BoneBanTayPhai 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21/BoneBanTayPhai 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14/BoneBanTayPhai
+          16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10/BoneBanTayPhai 15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23/BoneBanTayTrai1 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12/BoneBanTayTrai1 17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22/BoneBanTayTrai1 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21/BoneBanTayTrai1 26
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11/BoneBanTayTrai1 19
+        weight: 1
+      - path: BoneRoot/BoneHong
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2/BoneBanChan4
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2/BoneBanchan3
+        weight: 1
+      - path: default
+        weight: 1
+      - path: helena_rosenthal01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NhayXoay
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 155
+      lastFrame: 195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneRoot
+        weight: 1
+      - path: BoneRoot/Bone032
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: BoneRoot/BoneEo
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau/Bone021
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22/BoneBanTayPhai 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20/BoneBanTayPhai 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21/BoneBanTayPhai 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14/BoneBanTayPhai
+          16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10/BoneBanTayPhai 15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23/BoneBanTayTrai1 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12/BoneBanTayTrai1 17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22/BoneBanTayTrai1 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21/BoneBanTayTrai1 26
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11/BoneBanTayTrai1 19
+        weight: 1
+      - path: BoneRoot/BoneHong
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2/BoneBanChan4
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2/BoneBanchan3
+        weight: 1
+      - path: default
+        weight: 1
+      - path: helena_rosenthal01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nhay phia truoc
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 200
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneRoot
+        weight: 1
+      - path: BoneRoot/Bone032
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: BoneRoot/BoneEo
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau/Bone021
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22/BoneBanTayPhai 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20/BoneBanTayPhai 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21/BoneBanTayPhai 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14/BoneBanTayPhai
+          16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10/BoneBanTayPhai 15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23/BoneBanTayTrai1 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12/BoneBanTayTrai1 17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22/BoneBanTayTrai1 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21/BoneBanTayTrai1 26
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11/BoneBanTayTrai1 19
+        weight: 1
+      - path: BoneRoot/BoneHong
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2/BoneBanChan4
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2/BoneBanchan3
+        weight: 1
+      - path: default
+        weight: 1
+      - path: helena_rosenthal01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 291
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneRoot
+        weight: 1
+      - path: BoneRoot/Bone032
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: BoneRoot/Bone032/Bone033/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: BoneRoot/BoneEo
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneCo1/BoneCo2/BoneDau/Bone021
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 6/BoneBanTayPhai 12/BoneBanTayPhai
+          18/BoneBanTayPhai 22/BoneBanTayPhai 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 7/BoneBanTayPhai 11/BoneBanTayPhai
+          19/BoneBanTayPhai 20/BoneBanTayPhai 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 8/BoneBanTayPhai 13/BoneBanTayPhai
+          17/BoneBanTayPhai 21/BoneBanTayPhai 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 2/BoneBanTayPhai 4/BoneBanTayPhai 9/BoneBanTayPhai 14/BoneBanTayPhai
+          16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiPhai/Bone011/BoneTayPhai1/BoneTayPhai2/BoneCoTay/BoneBanTayPhai/BoneBanTayPhai
+          1/BoneBanTayPhai 3/BoneBanTayPhai 5/BoneBanTayPhai 10/BoneBanTayPhai 15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 7/BoneBanTayTrai1
+          13/BoneBanTayTrai1 18/BoneBanTayTrai1 23/BoneBanTayTrai1 25
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 8/BoneBanTayTrai1
+          12/BoneBanTayTrai1 17
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 9/BoneBanTayTrai1
+          14/BoneBanTayTrai1 20/BoneBanTayTrai1 22/BoneBanTayTrai1 24
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 2/BoneBanTayTrai1 5/BoneBanTayTrai1 10/BoneBanTayTrai1
+          15/BoneBanTayTrai1 16/BoneBanTayTrai1 21/BoneBanTayTrai1 26
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11
+        weight: 1
+      - path: BoneRoot/BoneEo/BoneBung/BoneThan/BoneThan 1/BoneThanNguc/Bone007/BoneVaiTrai/Bone009/BoneTayTrai1/BoneTayTrai2/BoneCoTayTrai/BoneBanTayTrai1/BoneBanTayTrai1
+          1/BoneBanTayTrai1 3/BoneBanTayTrai1 4/BoneBanTayTrai1 6/BoneBanTayTrai1
+          11/BoneBanTayTrai1 19
+        weight: 1
+      - path: BoneRoot/BoneHong
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone002/Bone003/BoneChanPhai1i/BoneChanPhai2/Bone028/BoneBanChanPhai1/BoneBanChanPhai2/BoneBanChan4
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2
+        weight: 1
+      - path: BoneRoot/BoneHong/Bone023/Bone024/Bone025/BoneChanTrai1/BoneChanTrai2/Bone031/BoneBanChanTrai1/BoneBanChanTrai2/BoneBanchan3
+        weight: 1
+      - path: default
+        weight: 1
+      - path: helena_rosenthal01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
