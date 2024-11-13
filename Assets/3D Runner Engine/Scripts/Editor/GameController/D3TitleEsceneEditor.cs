@@ -517,8 +517,6 @@ public class D3TitleEsceneEditor : Editor
                         GUILayout.Space(10f);
                         itemTarget.ImageButtonNoCoin = EditorGUILayout.ObjectField("Image Button No Coin: ", itemTarget.ImageButtonNoCoin, typeof(Sprite), true) as Sprite;
 
-    
-
                         GUILayout.Space(10f);
                         itemTarget.BuyText = EditorGUILayout.TextField("Buy Text: ", itemTarget.BuyText);
 

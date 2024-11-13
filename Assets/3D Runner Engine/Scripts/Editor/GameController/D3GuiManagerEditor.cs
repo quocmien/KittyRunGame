@@ -216,14 +216,14 @@ public class D3GuiManagerEditor : Editor
             GUILayout.Space(10f);
             GuiComponent.ImageButtonNoCoin = EditorGUILayout.ObjectField("Image Button No Coin: ", GuiComponent.ImageButtonNoCoin, typeof(Sprite), true) as Sprite;
 
-            GUILayout.Space(10f);
-            GuiComponent.ImageButtonInUse = EditorGUILayout.ObjectField("Image Button In Use: ", GuiComponent.ImageButtonInUse, typeof(Sprite), true) as Sprite;
+            // GUILayout.Space(10f);
+            // GuiComponent.ImageButtonInUse = EditorGUILayout.ObjectField("Image Button In Use: ", GuiComponent.ImageButtonInUse, typeof(Sprite), true) as Sprite;
 
-            GUILayout.Space(10f);
-            GuiComponent.BuyText = EditorGUILayout.TextField("Buy Text: ", GuiComponent.BuyText);
+            // GUILayout.Space(10f);
+            // GuiComponent.BuyText = EditorGUILayout.TextField("Buy Text: ", GuiComponent.BuyText);
 
-            GUILayout.Space(10f);
-            GuiComponent.NOCoinText = EditorGUILayout.TextField("NO Coin Text: ", GuiComponent.NOCoinText);
+            // GUILayout.Space(10f);
+            // GuiComponent.NOCoinText = EditorGUILayout.TextField("NO Coin Text: ", GuiComponent.NOCoinText);
 
             GUILayout.Space(10f);
             GuiComponent.MultiplyPriceWhenPurchasing = EditorGUILayout.IntField("Cant Multiply Price When Purchasing :", GuiComponent.MultiplyPriceWhenPurchasing);
