@@ -84,38 +84,62 @@ public class D3HeroController : MonoBehaviour
                                 TextAddTimeSprintTime.text = PlayerPrefs.GetFloat(ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.name + "SprintTime") + "/" + ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.AddSprintTimeMax;
                             }
 
-                            if (D3TitleCharacter.instance.coin >= ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceSprintTime)
+                            if (D3TitleCharacter.instance != null && D3TitleCharacter.instance.coin >= ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceSprintTime)
                             {
-                                if (ButtonSprintTime.image.sprite != ImageButtonBuy)
+                                if (ButtonSprintTime != null)
                                 {
-                                    ButtonSprintTime.image.sprite = ImageButtonBuy;
+                                    if (ButtonSprintTime.image.sprite != ImageButtonBuy)
+                                    {
+                                        ButtonSprintTime.image.sprite = ImageButtonBuy;
+                                    }
+                                    ButtonSprintTime.interactable = true;
                                 }
-                                ButtonSprintTime.interactable = true;
-                                ButtonTextSprintTime.text = BuyText;
                             }
                             else
                             {
-                                if (ButtonSprintTime.image.sprite != ImageButtonNoCoin)
+                                if (ButtonSprintTime != null)
                                 {
-                                    ButtonSprintTime.image.sprite = ImageButtonNoCoin;
+                                    if (ButtonSprintTime.image.sprite != ImageButtonNoCoin)
+                                    {
+                                        ButtonSprintTime.image.sprite = ImageButtonNoCoin;
+                                    }
+                                    ButtonSprintTime.interactable = false;
                                 }
-                                ButtonSprintTime.interactable = false;
-                                ButtonTextSprintTime.text = NOCoinText;
                             }
 
-                            PriceTextSprintTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceSprintTime.ToString();
+                            if (PriceTextSprintTime != null)
+                            {
+                                PriceTextSprintTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceSprintTime.ToString();
+                            }
                         }
-                        else {
-                            ButtonSprintTime.interactable = false;
-                            ButtonTextSprintTime.text = FinishUpgradeText;
+                        else
+                        {
+                            if (ButtonSprintTime != null)
+                            {
+                                ButtonSprintTime.interactable = false;
+                                ButtonSprintTime.image.sprite = ImageButtonNoCoin;
+                            }
+
+                            if (ButtonTextSprintTime != null)
+                            {
+                                ButtonTextSprintTime.text = FinishUpgradeText;
+                            }
+
                             ScrollbarAddTimeSprintTime.maxValue = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.AddSprintTimeMax;
                             ScrollbarAddTimeSprintTime.value = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentAddSprintTime;
-                            ButtonSprintTime.image.sprite = ImageButtonNoCoin;
-                            TextAddTimeSprintTime.text = PlayerPrefs.GetFloat(ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.name + "SprintTime") + "/" + ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.AddSprintTimeMax;
-                            PriceTextSprintTime.text = FinishUpgradeText.ToString();
-                        }
 
+                            if (TextAddTimeSprintTime != null)
+                            {
+                                TextAddTimeSprintTime.text = PlayerPrefs.GetFloat(ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.name + "SprintTime") + "/" + ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.AddSprintTimeMax;
+                            }
+
+                            if (PriceTextSprintTime != null)
+                            {
+                                PriceTextSprintTime.text = FinishUpgradeText.ToString();
+                            }
+                        }
                         #endregion
+
 
                         #region SpecialTime
                         if (ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentAddSpecialTime < ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.AddSpecialTimeMax)
@@ -140,7 +164,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonSpecialTime.image.sprite = ImageButtonBuy;
                                 }
                                 ButtonSpecialTime.interactable = true;
-                                ButtonTextSpecialTime.text = BuyText;
+                                // ButtonTextSpecialTime.text = BuyText;
                             }
                             else
                             {
@@ -149,7 +173,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonSpecialTime.image.sprite = ImageButtonNoCoin;
                                 }
                                 ButtonSpecialTime.interactable = false;
-                                ButtonTextSpecialTime.text = NOCoinText;
+                                // ButtonTextSpecialTime.text = NOCoinText;
                             }
                             PriceTextSpecialTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceSpecialTime.ToString();
 
@@ -193,7 +217,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonMultiplyTime.image.sprite = ImageButtonBuy;
                                 }
                                 ButtonMultiplyTime.interactable = true;
-                                ButtonTextMultiplyTime.text = BuyText;
+                                // ButtonTextMultiplyTime.text = BuyText;
                             }else
                             {
                                 if (ButtonMultiplyTime.image.sprite != ImageButtonNoCoin)
@@ -201,7 +225,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonMultiplyTime.image.sprite = ImageButtonNoCoin;
                                 }
                                 ButtonMultiplyTime.interactable = false;
-                                ButtonTextMultiplyTime.text = NOCoinText;
+                                // ButtonTextMultiplyTime.text = NOCoinText;
                             }
 
                             PriceTextMultiplyTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceMultiplyTime.ToString();
@@ -244,7 +268,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonMagnetTime.image.sprite = ImageButtonBuy;
                                 }
                                 ButtonMagnetTime.interactable = true;
-                                ButtonTextMagnetTime.text = BuyText;
+                                // ButtonTextMagnetTime.text = BuyText;
                             }
                             else
                             {
@@ -253,7 +277,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonMagnetTime.image.sprite = ImageButtonNoCoin;
                                 }
                                 ButtonMagnetTime.interactable = false;
-                                ButtonTextMagnetTime.text = NOCoinText;
+                                // ButtonTextMagnetTime.text = NOCoinText;
                             }
 
                             PriceTextMagnetTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceMagnetTime.ToString();
@@ -296,7 +320,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonShieldTime.image.sprite = ImageButtonBuy;
                                 }
                                 ButtonShieldTime.interactable = true;
-                                ButtonTextShieldTime.text = BuyText;
+                                // ButtonTextShieldTime.text = BuyText;
                             }
                             else
                             {
@@ -305,7 +329,7 @@ public class D3HeroController : MonoBehaviour
                                     ButtonShieldTime.image.sprite = ImageButtonNoCoin;
                                 }
                                 ButtonShieldTime.interactable = false;
-                                ButtonTextShieldTime.text = NOCoinText;
+                                // ButtonTextShieldTime.text = NOCoinText;
                             }
 
                             PriceTextShieldTime.text = ShopContoller.ListItemShop[i].OnlyForCharacterTypeAddPrefab.CurrentPriceShieldTime.ToString();

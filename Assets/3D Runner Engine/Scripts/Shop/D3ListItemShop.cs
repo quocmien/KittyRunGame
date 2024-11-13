@@ -104,7 +104,7 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonBuy;
                     }
                     Button.interactable = true;
-                    ButtonText.text = BuyText;
+                    // ButtonText.text = BuyText;
                 }
                 if (D3TitleCharacter.instance.coin < Item.Price)
                 {
@@ -113,7 +113,7 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonBuy;
                     }
                     Button.interactable = false;
-                    ButtonText.text = NOCoinText;
+                    // ButtonText.text = NOCoinText;
                 }
             }
             else {
@@ -216,7 +216,7 @@ public class D3ListItemShop : MonoBehaviour
                             Button.image.sprite = ImageButtonBuy;
                         }
                         Button.interactable = false;
-                        ButtonText.text = NOCoinText;
+                        // ButtonText.text = NOCoinText;
                     }
                 }
 
@@ -233,7 +233,7 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonBuy;
                     }
                     Button.interactable = true;
-                    ButtonText.text = BuyText;
+                    // ButtonText.text = BuyText;
                 }
 
                 if (Item.ProductType == D3ItemShop.D3ProductType.RealMoneyConsumable)
@@ -243,7 +243,7 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonBuy;
                     }
                     Button.interactable = true;
-                    ButtonText.text = BuyText;
+                    // ButtonText.text = BuyText;
                 }
 
             }
@@ -315,7 +315,7 @@ public class D3ListItemShop : MonoBehaviour
                             Button.image.sprite = ImageButtonBuy;
                         }
                         Button.interactable = false;
-                        ButtonText.text = NOCoinText;
+                        // ButtonText.text = NOCoinText;
                     }
                 }
                 else {
@@ -324,7 +324,7 @@ public class D3ListItemShop : MonoBehaviour
                         Button.image.sprite = ImageButtonBuy;
                     }
                     Button.interactable = true;
-                    ButtonText.text = BuyText;
+                    // ButtonText.text = BuyText;
                 }
                 
             }
