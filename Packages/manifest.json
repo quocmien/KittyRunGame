@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.itisnajim.socketiounity": "https://github.com/itisnajim/SocketIOUnity.git",
+    "com.nethereum.unity": "4.26.0",
+    "com.reown.appkit.unity": "1.0.1",
+    "com.reown.core": "1.0.1",
+    "com.reown.core.common": "1.0.1",
+    "com.reown.sign": "1.0.1",
+    "com.reown.sign.nethereum": "1.0.1",
+    "com.reown.sign.unity": "1.0.1",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ads": "4.12.0",
     "com.unity.collab-proxy": "2.4.4",
@@ -41,5 +49,27 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.nethereum",
+        "com.nethereum.unity",
+        "com.reown",
+        "com.reown.appkit.unity",
+        "com.reown.core",
+        "com.reown.core.common",
+        "com.reown.core.crypto",
+        "com.reown.core.network",
+        "com.reown.core.storage",
+        "com.reown.sign",
+        "com.reown.sign.nethereum",
+        "com.reown.sign.nethereum.unity",
+        "com.reown.sign.unity",
+        "com.reown.unity.dependencies"
+      ]
+    }
+  ]
 }

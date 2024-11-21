@@ -1,5 +1,133 @@
 {
   "dependencies": {
+    "com.itisnajim.socketiounity": {
+      "version": "https://github.com/itisnajim/SocketIOUnity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "hash": "c9e06b15391449ad42fd9b0f39fea48054751bcd"
+    },
+    "com.nethereum.unity": {
+      "version": "4.26.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.appkit.unity": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.sign.nethereum.unity": "1.0.1",
+        "com.reown.sign.unity": "1.0.1",
+        "com.reown.core": "1.0.1",
+        "com.reown.unity.dependencies": "1.0.1",
+        "com.unity.vectorgraphics": "2.0.0-preview.24"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.core": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.core.common": "1.0.1",
+        "com.reown.core.network": "1.0.1",
+        "com.reown.core.storage": "1.0.1",
+        "com.reown.core.crypto": "1.0.1",
+        "com.reown.unity.dependencies": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.core.common": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.core.crypto": {
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.core.common": "1.0.1",
+        "com.reown.core.network": "1.0.1",
+        "com.reown.core.storage": "1.0.1",
+        "com.reown.unity.dependencies": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.core.network": {
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.core.common": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.core.storage": {
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.core.common": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.sign": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.core": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.sign.nethereum": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.sign": "1.0.1",
+        "com.nethereum.unity": "4.19.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.sign.nethereum.unity": {
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.sign.nethereum": "1.0.1",
+        "com.reown.sign.unity": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.sign.unity": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.reown.sign": "1.0.1"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.reown.unity.dependencies": {
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "url": "https://package.openupm.com"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -94,7 +222,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -234,6 +362,25 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.vectorgraphics": {
+      "version": "2.0.0-preview.24",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.2d.sprite": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.physics2d": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestwww": "1.0.0",
+        "com.unity.modules.unitywebrequesttexture": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.visualscripting": {
       "version": "1.9.4",

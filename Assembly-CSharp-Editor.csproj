@@ -463,12 +463,52 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.47f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Nethereum.RPC">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.RPC.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging">
+      <HintPath>Library\PackageCache\com.reown.unity.dependencies@1.0.1\Runtime\Microsoft.IdentityModel.Logging.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Mud.Contracts">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Mud.Contracts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Geth">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Geth.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Optimism">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Optimism.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.BlockchainProcessing">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.BlockchainProcessing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Model">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Model.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Signer">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Signer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Siwe.Core">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Siwe.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
@@ -479,6 +519,30 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="ADRaffy.ENSNormalize">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\ADRaffy.ENSNormalize.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Merkle.Patricia">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Merkle.Patricia.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.JsonRpc.RpcClient">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.JsonRpc.RpcClient.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.RLP">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.RLP.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>Library\PackageCache\com.reown.unity.dependencies@1.0.1\Runtime\BouncyCastle.Crypto.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.HdWallet">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.HdWallet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
@@ -487,24 +551,84 @@
       <HintPath>Assets\MobileDependencyResolver\Editor\Google.VersionHandlerImpl.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Nethereum.EVM">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.EVM.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Web3">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Web3.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.UI">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Metamask">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Metamask.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.4\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Unity">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Unity.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Nethereum.Hex">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Hex.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Google.JarResolver">
       <HintPath>Assets\MobileDependencyResolver\Editor\Google.JarResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.JsonRpc.Client">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.JsonRpc.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Accounts">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Accounts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Unity.Metamask">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Unity.Metamask.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Besu">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Besu.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>Library\PackageCache\com.reown.unity.dependencies@1.0.1\Runtime\Microsoft.IdentityModel.Tokens.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Util">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Util.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Merkle">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Merkle.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Signer.EIP712">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Signer.EIP712.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Google.VersionHandler">
       <HintPath>Assets\MobileDependencyResolver\Editor\Google.VersionHandler.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.GnosisSafe">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.GnosisSafe.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">
@@ -513,6 +637,42 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Mud">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Mud.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Siwe">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Siwe.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Abstractions">
+      <HintPath>Library\PackageCache\com.reown.unity.dependencies@1.0.1\Runtime\Microsoft.IdentityModel.Abstractions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Util.Rest">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Util.Rest.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="NBitcoin">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\NBitcoin.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="zxing.unity">
+      <HintPath>Library\PackageCache\com.reown.unity.dependencies@1.0.1\Runtime\zxing.unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.KeyStore">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.KeyStore.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.Contracts">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.Contracts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Nethereum.ABI">
+      <HintPath>Library\PackageCache\com.nethereum.unity@4.26.0\Runtime\Nethereum.ABI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
@@ -1059,12 +1219,20 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="SocketIOUnityAssembly">
+      <HintPath>Library\ScriptAssemblies\SocketIOUnityAssembly.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.Purchasing.Stores">
       <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VectorGraphics">
+      <HintPath>Library\ScriptAssemblies\Unity.VectorGraphics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
@@ -1075,6 +1243,14 @@
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Reown.Sign.Nethereum.Unity">
+      <HintPath>Library\ScriptAssemblies\Reown.Sign.Nethereum.Unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Reown.Sign.Unity">
+      <HintPath>Library\ScriptAssemblies\Reown.Sign.Unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1083,8 +1259,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VectorGraphics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VectorGraphics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Reown.Core.Common">
+      <HintPath>Library\ScriptAssemblies\Reown.Core.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
@@ -1123,8 +1307,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Reown.Core.Storage">
+      <HintPath>Library\ScriptAssemblies\Reown.Core.Storage.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.Purchasing.Codeless">
       <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Reown.Sign.Nethereum">
+      <HintPath>Library\ScriptAssemblies\Reown.Sign.Nethereum.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PPv2URPConverters">
@@ -1163,6 +1355,14 @@
       <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Reown.AppKit.Unity">
+      <HintPath>Library\ScriptAssemblies\Reown.AppKit.Unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Reown.Core">
+      <HintPath>Library\ScriptAssemblies\Reown.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
       <Private>False</Private>
@@ -1183,12 +1383,16 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    <Reference Include="Reown.Sign">
+      <HintPath>Library\ScriptAssemblies\Reown.Sign.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
@@ -1223,6 +1427,10 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.003">
+      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.003.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1231,12 +1439,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Reown.Core.Crypto">
+      <HintPath>Library\ScriptAssemblies\Reown.Core.Crypto.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.003">
+      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.003.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
@@ -1267,9 +1483,17 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Reown.Core.Network">
+      <HintPath>Library\ScriptAssemblies\Reown.Core.Network.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj" />
+    <ProjectReference Include="spine-unity.csproj" />
+    <ProjectReference Include="spine-unity-examples.csproj" />
+    <ProjectReference Include="spine-unity-examples-editor.csproj" />
+    <ProjectReference Include="spine-unity-editor.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

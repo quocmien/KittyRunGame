@@ -103,6 +103,11 @@ public class D3GUIManager : MonoBehaviour
     public GameObject StartWinOFF2;
     public GameObject StartWinOFF3;
 
+    public SpineUIAnimationController SpineController1;
+    public SpineUIAnimationController SpineController2;
+    public SpineUIAnimationController SpineController3;
+
+
     public Slider LoadingBar;
 	public Text LoadingBarText;
 
@@ -1293,73 +1298,156 @@ public class D3GUIManager : MonoBehaviour
                 D3GameController.instace.PlayerCam.GetComponent<Animator>().SetBool("IsUIManger", true);
             }
 
-            if (D3GameAttribute.gameAttribute.UseStartSystem)
+            // if (D3GameAttribute.gameAttribute.UseStartSystem)
+            // {
+            //     if ((int)D3GameAttribute.gameAttribute.distance > GetStart1)
+            //     {
+            //         if (!StartWinON1.activeSelf)
+            //         {
+            //             if (SoundManager != null)
+            //                 SoundManager.PlayingSound("GetItem");
+            //             StartWinON1.SetActive(true);
+
+            //         }
+            //         StartWinOFF1.SetActive(true);
+            //     }
+            //     else
+            //     {
+            //         if (StartWinON1.activeSelf)
+            //             StartWinON1.SetActive(false);
+            //         StartWinOFF1.SetActive(false);
+            //     }
+            //     if ((int)D3GameAttribute.gameAttribute.distance > Getstart2)
+            //     {
+            //         if (!StartWinON2.activeSelf)
+            //         {
+            //             StartWinON2.SetActive(true);
+            //         }
+            //         StartWinOFF2.SetActive(true);
+
+            //     }
+            //     else
+            //     {
+            //         if (StartWinON2.activeSelf)
+            //             StartWinON2.SetActive(false);
+            //         StartWinOFF2.SetActive(false);
+            //     }
+            //     if ((int)D3GameAttribute.gameAttribute.distance > Getstart3)
+            //     {
+            //         if (!StartWinON3.activeSelf)
+            //         {
+            //             StartWinON3.SetActive(true);
+            //         }
+            //         StartWinOFF3.SetActive(true);
+
+            //     }
+            //     else
+            //     {
+            //         if (StartWinON3.activeSelf)
+            //             StartWinON3.SetActive(false);
+            //         StartWinOFF3.SetActive(false);
+            //     }
+            // }
+            // else
+            // {
+            //     if (StartWinON1.activeSelf)
+            //         StartWinON1.SetActive(false);
+            //     if (StartWinON2.activeSelf)
+            //         StartWinON2.SetActive(false);
+            //     if (StartWinON3.activeSelf)
+            //         StartWinON3.SetActive(false);
+            //     if (StartWinON1.activeSelf)
+            //         StartWinOFF1.SetActive(false);
+            //     if (StartWinOFF2.activeSelf)
+            //         StartWinOFF2.SetActive(false);
+            //     if (StartWinOFF3.activeSelf)
+            //         StartWinOFF3.SetActive(false);
+
+            // }
+            // AppearWindow(WinGameGui);
+
+        if (D3GameAttribute.gameAttribute.UseStartSystem)
+        {
+            // Kiểm tra và kích hoạt animation cho 1Star
+            if ((int)D3GameAttribute.gameAttribute.distance > GetStart1)
             {
-                if ((int)D3GameAttribute.gameAttribute.distance > GetStart1)
+                if (!StartWinON1.activeSelf)
                 {
-                    if (!StartWinON1.activeSelf)
-                    {
-                        if (SoundManager != null)
-                            SoundManager.PlayingSound("GetItem");
-                        StartWinON1.SetActive(true);
+                    if (SoundManager != null)
+                        SoundManager.PlayingSound("GetItem");
+                    StartWinON1.SetActive(true);
 
-                    }
-                    StartWinOFF1.SetActive(true);
+                    // Kích hoạt animation "1Star"
+                    SpineController1.PlayAnimation("1Star");
                 }
-                else
-                {
-                    if (StartWinON1.activeSelf)
-                        StartWinON1.SetActive(false);
-                    StartWinOFF1.SetActive(false);
-                }
-                if ((int)D3GameAttribute.gameAttribute.distance > Getstart2)
-                {
-                    if (!StartWinON2.activeSelf)
-                    {
-                        StartWinON2.SetActive(true);
-                    }
-                    StartWinOFF2.SetActive(true);
-
-                }
-                else
-                {
-                    if (StartWinON2.activeSelf)
-                        StartWinON2.SetActive(false);
-                    StartWinOFF2.SetActive(false);
-                }
-                if ((int)D3GameAttribute.gameAttribute.distance > Getstart3)
-                {
-                    if (!StartWinON3.activeSelf)
-                    {
-                        StartWinON3.SetActive(true);
-                    }
-                    StartWinOFF3.SetActive(true);
-
-                }
-                else
-                {
-                    if (StartWinON3.activeSelf)
-                        StartWinON3.SetActive(false);
-                    StartWinOFF3.SetActive(false);
-                }
+                StartWinOFF1.SetActive(true);
             }
             else
             {
                 if (StartWinON1.activeSelf)
                     StartWinON1.SetActive(false);
+                StartWinOFF1.SetActive(false);
+            }
+
+            // Kiểm tra và kích hoạt animation cho 2Star
+            if ((int)D3GameAttribute.gameAttribute.distance > Getstart2)
+            {
+                if (!StartWinON2.activeSelf)
+                {
+                    StartWinON2.SetActive(true);
+
+                    // Kích hoạt animation "2Star"
+                    SpineController2.PlayAnimation("2Star");
+                }
+                StartWinOFF2.SetActive(true);
+            }
+            else
+            {
                 if (StartWinON2.activeSelf)
                     StartWinON2.SetActive(false);
+                StartWinOFF2.SetActive(false);
+            }
+
+            // Kiểm tra và kích hoạt animation cho 3Star
+            if ((int)D3GameAttribute.gameAttribute.distance > Getstart3)
+            {
+                if (!StartWinON3.activeSelf)
+                {
+                    StartWinON3.SetActive(true);
+
+                    // Kích hoạt animation "3Star"
+                    SpineController3.PlayAnimation("3Star");
+                }
+                StartWinOFF3.SetActive(true);
+            }
+            else
+            {
                 if (StartWinON3.activeSelf)
                     StartWinON3.SetActive(false);
-                if (StartWinON1.activeSelf)
-                    StartWinOFF1.SetActive(false);
-                if (StartWinOFF2.activeSelf)
-                    StartWinOFF2.SetActive(false);
-                if (StartWinOFF3.activeSelf)
-                    StartWinOFF3.SetActive(false);
-
+                StartWinOFF3.SetActive(false);
             }
-            AppearWindow(WinGameGui);
+        }
+        else
+        {
+            // Tắt tất cả GameObject và animation khi UseStartSystem = false
+            if (StartWinON1.activeSelf)
+                StartWinON1.SetActive(false);
+            if (StartWinON2.activeSelf)
+                StartWinON2.SetActive(false);
+            if (StartWinON3.activeSelf)
+                StartWinON3.SetActive(false);
+
+            if (StartWinOFF1.activeSelf)
+                StartWinOFF1.SetActive(false);
+            if (StartWinOFF2.activeSelf)
+                StartWinOFF2.SetActive(false);
+            if (StartWinOFF3.activeSelf)
+                StartWinOFF3.SetActive(false);
+        }
+
+        // Hiển thị cửa sổ chiến thắng
+        AppearWindow(WinGameGui);
+
 #if UNITY_ADS
             if (D3GameController.instace.EnableInterstitialADSOnWim)
             {

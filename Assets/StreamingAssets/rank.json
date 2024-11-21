@@ -1,0 +1,11 @@
+{
+    "ranks": [
+        {"playerName": "Player 1", "score": 5000, "avatarPath": "Avatars/Ava1"},
+        {"playerName": "Player 2", "score": 4500, "avatarPath": "Avatars/Ava2"},
+        {"playerName": "Player 3", "score": 4000, "avatarPath": "Avatars/Ava3"},
+        {"playerName": "Player 1", "score": 2000, "avatarPath": "Avatars/Ava5"},
+        {"playerName": "Player 2", "score": 1500, "avatarPath": "Avatars/Ava6"},
+        {"playerName": "Player 3", "score": 1000, "avatarPath": "Avatars/Ava7"}
+        
+    ]
+}
